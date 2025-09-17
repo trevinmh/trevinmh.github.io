@@ -6,6 +6,5 @@
   <body>
     <h1>Welcome to My Website</h1>
     <p>This is my first webpage using HTML!</p>
-    <a href="">Visit Example</a>
   </body>
 </html>
